@@ -1,2 +1,5 @@
+#Archivo con la base de datos
 .env
+
+#Carpeta con los archivos node
 node_modules
